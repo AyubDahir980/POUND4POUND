@@ -1,0 +1,50 @@
+#body1{
+  background-color: gray;
+}
+.topnav {
+  background-color: white;
+  overflow: hidden;
+  padding-left: 750px;
+
+}
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: gold;
+    color: black;
+  }
+  
+  .topnav a.active {
+    color: black;
+  }
+  #Image1{
+    border: white ridge;
+    padding: 15px;
+    height: 200px;
+    background-color: aliceblue;
+    align-items: center;
+  } 
+  #Image2{
+    border: white ridge;
+    padding: 15px;
+    height: 200px;
+    margin-left: 500px;
+    background-color: aliceblue;
+    align-items: center;
+  } 
+  #Image3{
+    border: white ridge;
+    height: 200px;
+    padding:15px;
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-left: 300px;
+  }
